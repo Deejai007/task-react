@@ -51,7 +51,7 @@ const Login: React.FC = () => {
       <Container
         maxWidth="xs"
         style={{
-          backgroundColor: "rgb(250 250 250 /90%)",
+          backgroundColor: "rgb(250 250 250 )",
           borderRadius: "8px",
           padding: "20px",
           boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2)",
