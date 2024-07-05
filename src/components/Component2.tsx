@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Box, Container, Paper, Typography } from "@mui/material";
+import { Container, Typography } from "@mui/material";
 
 interface Department {
   department: string;
